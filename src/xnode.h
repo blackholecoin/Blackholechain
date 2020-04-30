@@ -22,7 +22,7 @@ static const int XNODE_MIN_MNP_SECONDS             =  10 * 60; //PRE_ENABLE_TIME
 static const int XNODE_EXPIRATION_SECONDS          =  65 * 60;
 static const int XNODE_WATCHDOG_MAX_SECONDS        = 120 * 60;
 static const int XNODE_NEW_START_REQUIRED_SECONDS  = 180 * 60;
-static const int XNODE_COIN_REQUIRED  = 5000;
+static const int XNODE_COIN_REQUIRED  = 2000;
 
 static const int XNODE_POSE_BAN_MAX_SCORE          = 5;
 //
